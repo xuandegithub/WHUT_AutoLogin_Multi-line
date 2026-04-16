@@ -2,6 +2,8 @@
 
 > 武汉理工大学校园网自动登录保活脚本，支持多线路叠加提速
 
+校园网认证 (Campus Network Authentication)
+网速叠加 (Bandwidth Aggregation / Load Balancing)
 
 ## 📖 项目简介
 
